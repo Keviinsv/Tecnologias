@@ -20,11 +20,9 @@ para proteger las operaciones relacionadas con las tareas.
    ```bash
    git clone https://github.com/tu_usuario/todo-list.git
    cd todo-list
-
    npm install (Librerias necesarias)
-2.- Para ejecutar el proyecto localmente
-  solo es necesario ejecutar el siguiente comando
-  node (nombre del sevidor).js 
+   1.1 Y para ejecutar el proyecto localmente ocupa el siguiente codigo:
+   node (El nombre de tu servidor).js
 
 # Uso del Sistema
 Regístrate en el sistema usando el formulario de registro.
